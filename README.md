@@ -18,7 +18,6 @@ Build the Docker Image:
 docker build -t php-login-app .
 Run the Docker Container:
 
-
 docker run -d -p 8080:80 --name php-login-container php-login-app
 This command maps port 80 inside the container to port 8080 on your host machine.
 
