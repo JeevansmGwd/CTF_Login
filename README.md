@@ -11,7 +11,7 @@ Docker installed on your system.
 Setup Instructions
 Clone the Repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone [https://github.com/JeevansmGwd/CTF_Login]
 cd your-repo-name
 Build the Docker Image:
 
