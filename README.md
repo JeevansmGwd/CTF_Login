@@ -17,7 +17,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/JeevansmGwd/CTF_Login
-cd your-repo-name
+cd CTF_Login
 ```
 Build the Docker Image:
 ```bash
