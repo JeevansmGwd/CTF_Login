@@ -1,0 +1,5 @@
+sudo dockerd 
+docker build -t <testing> .
+docker run -d -p 8080:80 --name testing <testing>
+docker stop <container_id>
+docker kill <image>
